@@ -1,0 +1,7 @@
+{
+  "name": "react-cricket",
+  "description": "A simple react projec to show insight details of cricket",
+  "repository": "https://github.com/Sagar133/react-cricket",
+  "logo": "https://static1.squarespace.com/static/58fe6ba93a041152aea092c6/t/591b9ac7e58c62347d45893d/1494981364443/IMG_7171.JPG?format=1500w",
+  "keywords": ["node", "express", "static"]
+}
